@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jrnew</title><link>/</link><description></description><atom:link href="/feeds/jrnew.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Oct 2014 00:00:00 +0200</lastBuildDate><item><title>Test</title><link>/test.html</link><description>&lt;p&gt;My test.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">jrnew</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 +0200</pubDate><guid>tag:,2014-10-03:test.html</guid></item></channel></rss>
