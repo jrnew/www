@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>jrnew</title><link href="/" rel="alternate"></link><link href="/feeds/jrnew.atom.xml" rel="self"></link><id>/</id><updated>2014-10-03T00:00:00+02:00</updated><entry><title>Test</title><link href="/test.html" rel="alternate"></link><updated>2014-10-03T00:00:00+02:00</updated><author><name>jrnew</name></author><id>tag:,2014-10-03:test.html</id><summary type="html">&lt;p&gt;My test.&lt;/p&gt;</summary></entry></feed>
