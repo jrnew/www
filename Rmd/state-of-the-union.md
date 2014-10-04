@@ -1,8 +1,8 @@
 ---
 title: "The State of the Union is dumber"
 author: "jrnew"
-date: "27 September, 2014"
-output: html_document
+date: "4 October, 2014"
+slug: state-of-the-union
 ---
 
 I got the idea of calculating the [Fleisch-Kincaid readability test][fk-readability] score for all State of the Union Adresses after reading about how [it was used][beakblog] to calculate the average U.S. grade level of a user's tweets in [Beak][beak]. After some googling, it turns out [The Guardian][guardian] already beat me to it, but this still makes for a fun exercise.
