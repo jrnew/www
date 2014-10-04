@@ -1,5 +1,5 @@
-title: "The State of the Union is dumber"
-author: "jrnew"
+title: The State of the Union is dumber
+author: jrnew
 date: 2014-10-04
 slug: state-of-the-union
 
