@@ -18,14 +18,17 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('R-bloggers', 'http://www.r-bloggers.com'),)
 
 # Social widget
-SOCIAL = (('Twitter @jrnewww', 'http://twitter.com/jrnew'),
-          ('GitHub @jrnew', 'http://github.com/jrnew'),)
+SOCIAL = (('Twitter @jrnewww', 'http://twitter.com/jrnewww'),
+          ('GitHub @jrnew', 'http://github.com/jrnew'),
+          ('LinkedIn', 'https://www.linkedin.com/profile/view?id=146937887'),
+          ('ResearchGate', 'http://www.researchgate.net/profile/Jin_Rou_New'),)
+
+# Static paths
 STATIC_PATHS = ['figure']
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
