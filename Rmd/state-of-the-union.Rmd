@@ -2,7 +2,7 @@ title: The State of the Union is dumber
 author: jrnew
 date: 2014-10-06
 slug: state-of-the-union
-category: rstats
+category: R
 
 I got the idea of calculating the [Fleisch-Kincaid readability test][fk-readability] score for all State of the Union Addresses after reading about how [it was used][beakblog] to calculate the average U.S. grade level of a user's tweets in [Beak][beak]. After some googling, it turns out [The Guardian][guardian] already beat me to it, but this still makes for a fun exercise.
 
