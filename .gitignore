@@ -1,5 +1,9 @@
+# Mac files
 .DS_Store
 */.DS_Store
+
+# R files
+*/.Rhistory
 
 # Pelican cruft
 cache/
