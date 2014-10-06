@@ -25,7 +25,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('Twitter @jrnewww', 'http://twitter.com/jrnew'),
           ('GitHub @jrnew', 'http://github.com/jrnew'),)
-
+STATIC_PATHS = ['figure']
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
