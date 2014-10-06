@@ -1,6 +1,6 @@
 title: "The State of the Union is dumber"
 author: "jrnew"
-date: "4 October, 2014"
+date: "2014-10-06"
 slug: state-of-the-union
 category: rstats
 
@@ -15,13 +15,6 @@ library(stringr)
 library(koRpus)
 library(ggplot2)
 library(gridExtra)
-```
-
-```
-## Loading required package: grid
-```
-
-```r
 source("R/speech-functions.R")
 output_dir <- "output"
 # Get list of speech objects
@@ -61,7 +54,7 @@ p <- ggplot(speech_df,
 print(p)
 ```
 
-![plot of chunk plot](figure/latex-plot.png) 
+![plot of chunk plot](figure/plot.png) 
 
 [beakblog]: https://medium.com/@johnnylin/going-from-nothing-to-product-hunt-in-4-hours-89cfb67977b3 "Johnny Lin"
 [beak]: http://www.beakscore.com/ "Beak"
